@@ -1,0 +1,8 @@
+{
+  "name": "Localización de la guagua de San Cristóbal",
+  "description": "Una aplicación web para el seguimiento en tiempo real de la guagua de San Cristóbal. Los conductores y colaboradores pueden compartir su ubicación y estado del viaje (incidentes, asientos), y los empleados pueden ver esta información.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
